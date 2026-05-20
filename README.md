@@ -1,6 +1,13 @@
 # KOLOR-charlene
 Portfolio of excel and Power Bi project including,pivot table,and interactive dashboards for reporting and analysis
+
 👋 Bienvenue sur mon portfolio
+
+Je m’appelle Charlène KOLOR et je m’intéresse à l’analyse de données et à la visualisation d’informations.
+
+Je travaille principalement avec Excel et Power BI, en me concentrant sur le nettoyage de données, les tableaux croisés dynamiques et la création de dashboards simples.
+
+Mon objectif est de progresser vers des rôles liés à la data et au business intelligence à travers des projets concrets et pratiques.
 
 Je m’intéresse à l’analyse de données à travers des outils accessibles comme **Excel** et **Power BI**.  
 Ce portfolio rassemble des projets réalisés dans le cadre de mon apprentissage, avec un focus sur la manipulation de données, la création de tableaux dynamiques et la conception de dashboards.

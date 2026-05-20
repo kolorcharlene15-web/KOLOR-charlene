@@ -1,7 +1,7 @@
 # KOLOR-charlene
 Portfolio of excel and Power Bi project including,pivot table,and interactive dashboards for reporting and analysis
 
-👋 Bienvenue sur mon portfolio
+ Bienvenue sur mon portfolio
 
 Je m’appelle Charlène KOLOR et je m’intéresse à l’analyse de données et à la visualisation d’informations.
 

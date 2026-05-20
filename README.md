@@ -49,3 +49,6 @@ Il sera enrichi au fur et à mesure de mon apprentissage et de mes projets.
 --- 📫 Contact
 
 Si tu veux échanger ou collaborer sur des projets simples en data / reporting, tu peux me contacter via GitHub.
+ 
+📧 Email : kolorcharlene15@gmail.com
+💼 LinkedIn : https://www.linkedin.com/in/KOLOR-Charlène

@@ -9,7 +9,7 @@ Je ne cherche pas à “faire impression” avec des concepts complexes, mais pl
 
 ---
 
-## 🧠 Ce que je sais faire
+##  Ce que je sais faire
 
 - Nettoyage et structuration de données sur Excel  
 - Création de tableaux croisés dynamiques  
@@ -19,7 +19,7 @@ Je ne cherche pas à “faire impression” avec des concepts complexes, mais pl
 
 ---
 
-## 🧰 Outils utilisés
+##  Outils utilisés
 
 - Microsoft Excel  
 - Power BI  
@@ -35,13 +35,13 @@ L’objectif n’est pas la perfection, mais la compréhension et l’améliorat
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 Mon objectif est de développer une vraie aisance dans l’analyse de données et la visualisation, afin de pouvoir transformer des données brutes en informations utiles pour la prise de décision.
 
 ---
 
-## 📌 Remarque
+##  Remarque
 
 Ce portfolio est évolutif.  
 Il sera enrichi au fur et à mesure de mon apprentissage et de mes projets.

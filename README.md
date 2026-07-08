@@ -1,61 +1,16 @@
-# KOLOR-charlene
-Portfolio of excel and Power Bi project including,pivot table,and interactive dashboards for reporting and analysis
+# À propos de moi 🌍📊
+Je m'appelle **KOLOR Yawa Charlène Ivana**, étudiante en 3ème année de Licence Économie Internationale à l'Université de Lomé (FASEG)[span_2](start_span)[span_2](end_span). 
 
- Bienvenue sur mon portfolio
+Passionnée par le **développement Économique**, l'**analyse statistique** et l'**aide à la décision**, je me spécialise dans la transformation de données brutes (économiques, agricoles, publiques) en indicateurs visuels et stratégiques[span_3](start_span)[span_3](end_span).
 
-Je m’appelle Charlène KOLOR et je m’intéresse à l’analyse de données et à la visualisation d’informations.
+🚀 **Mes compétences clés :** 
+- **Data & Visu :** Power BI, Excel avancé[span_4](start_span)[span_4](end_span), QGIS (Cartographie)
+- **Statistiques & Économétrie :** Stata, EViews, initiation à Python & SQL[span_5](start_span)[span_5](end_span)
+- **Domaines :** Politiques publiques, macroéconomie, enjeux Ouest-Africains (UEMOA, CEDEAO)[span_6](start_span)[span_6](end_span)
 
-Je travaille principalement avec Excel et Power BI, en me concentrant sur le nettoyage de données, les tableaux croisés dynamiques et la création de dashboards simples.
-
-Mon objectif est de progresser vers des rôles liés à la data et au business intelligence à travers des projets concrets et pratiques.
-
-Je m’intéresse à l’analyse de données à travers des outils accessibles comme **Excel** et **Power BI**.  
-Ce portfolio rassemble des projets réalisés dans le cadre de mon apprentissage, avec un focus sur la manipulation de données, la création de tableaux dynamiques et la conception de dashboards.
-
-Je ne cherche pas à “faire impression” avec des concepts complexes, mais plutôt à montrer ce que je sais faire concrètement avec des données réelles ou simulées.
+📬 **Me contacter :** [kolorcharlene15@gmail.com](mailto:kolorcharlene15@gmail.com) | [+228 92 86 37 18](tel:+22892863718) | [Mon LinkedIn](https://linkedin.com/in/charlenekolor)[span_7](start_span)[span_7](end_span)
 
 ---
 
-##  Ce que je sais faire
-
-- Nettoyage et structuration de données sur Excel  
-- Création de tableaux croisés dynamiques  
-- Analyse simple de données  
-- Conception de dashboards interactifs sur Power BI  
-- Visualisation de données pour faciliter la compréhension
-
----
-
-##  Outils utilisés
-
-- Microsoft Excel  
-- Power BI  
-- (en cours d’apprentissage : amélioration de mes compétences en analyse et visualisation)
-📁 Mes projets
-
-Chaque projet ici représente une étape de progression.  
-L’objectif n’est pas la perfection, mais la compréhension et l’amélioration continue.
-
-- 📊 Dashboards Power BI (analyse de données et visualisation)
-- 📉 Projets Excel (nettoyage de données + tableaux croisés dynamiques)
-- 📋 Analyses simples basées sur des jeux de données fictifs ou publics
-
----
-
-##  Objectif
-
-Mon objectif est de développer une vraie aisance dans l’analyse de données et la visualisation, afin de pouvoir transformer des données brutes en informations utiles pour la prise de décision.
-
----
-
-##  Remarque
-
-Ce portfolio est évolutif.  
-Il sera enrichi au fur et à mesure de mon apprentissage et de mes projets.
-
---- 📫 Contact
-
-Si tu veux échanger ou collaborer sur des projets simples en data / reporting, tu peux me contacter via GitHub.
- 
-📧 Email : kolorcharlene15@gmail.com
-💼 LinkedIn : https://www.linkedin.com/in/KOLOR-Charlène
+## 🛠️ Mes Projets Phares
+*(Retrouve ci-dessous les projets concrets issus de mes travaux académiques et personnels)*
